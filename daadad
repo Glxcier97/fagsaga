@@ -46,7 +46,6 @@ warn("<><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
 --[[Developer note: If you get banned for using this, suck it up. Being overpowered comes at a cost.]]--
 loadstring(game:GetObjects("rbxassetid://5209815302")[1].Source)()
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Tescalus/Pendulum-Hubs-Source/main/Reanimation.lua"))()
  Effects = { }
 local Player = game.Players.localPlayer
 local Mouse = Player:GetMouse()
